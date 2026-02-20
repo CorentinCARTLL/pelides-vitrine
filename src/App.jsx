@@ -479,7 +479,7 @@ export default function App() {
 
             <h1 className={`font-display-serif font-bold leading-none mb-6 text-gray-900 ${ready ? "anim-fade-up d1" : "opacity-0"}`}
               style={{ fontSize: "clamp(50px, 10vw, 130px)" }}>
-              FRET LOURD.<br/>
+              FRET AERIEN.<br/>
               <span style={{ color: "#B87333" }}>AUTONOME.</span>
             </h1>
 
